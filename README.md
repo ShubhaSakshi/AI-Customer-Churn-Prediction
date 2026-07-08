@@ -26,6 +26,47 @@ This project predicts whether a telecom customer is likely to churn using Machin
 - Joblib
 
 
+## Project Structure
+
+AI_Customer_Churn_Prediction/
+
+├── Customer_Churn_Analysis.ipynb
+
+├── Customer_Churn_Deployment.ipynb
+
+├── app.py
+
+├── customer_churn_pipeline.pkl
+
+├── Telco-Customer-Churn.csv
+
+├── requirements.txt
+
+├── .gitignore
+
+└── README.md
+
+
+## Application Screenshots
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+### Prediction Page
+
+![Prediction](screenshots/prediction1.png)
+![Prediction2](screenshots/prediction2.png)
+
+### Prediction Result
+
+![Result](screenshots/result.png)
+
+## Architecture
+
+![Architecture](screenshots/architecture.png)
+
+
 ## How to Run
 
 1. Clone this repository.
@@ -65,4 +106,4 @@ The Logistic Regression model was selected as the final model based on its overa
 
 **Shubha Sakshi**
 
-B.Tech – Artificial Intelligence & Data Science
+B.Tech – Artificial Intelligence & Data Science#
