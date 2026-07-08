@@ -51,20 +51,20 @@ AI_Customer_Churn_Prediction/
 
 ### Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/screenshots/home.png)
 
 ### Prediction Page
 
-![Prediction](screenshots/prediction1.png)
-![Prediction2](screenshots/prediction2.png)
+![Prediction](screenshots/screenshots/prediction1.png)
+![Prediction2](screenshots/screenshots/prediction2.png)
 
 ### Prediction Result
 
-![Result](screenshots/result.png)
+![Result](screenshots/screenshots/result.png)
 
 ## Architecture
 
-![Architecture](screenshots/architecture.png)
+![Architecture](screenshots/screenshots/architecture.png)
 
 
 ## How to Run
