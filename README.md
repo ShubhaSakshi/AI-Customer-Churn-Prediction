@@ -5,6 +5,13 @@
 This project predicts whether a telecom customer is likely to churn using Machine Learning. It provides churn prediction, churn probability, risk level, and business recommendations through an interactive Streamlit web application.
 
 
+## 🚀 Live Demo
+
+**Try the application here:**
+
+https://ai-customer-churn-prediction-3ws6hpqc2u52rsqs7ffujy.streamlit.app/
+
+
 ## Features
 
 - Customer Churn Prediction
